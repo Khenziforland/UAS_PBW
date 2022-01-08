@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Karma", sans-serif
+}
+
+.navbar_logo {
+    font-size: 20pt;
+    font-weight: bold;
+    margin-left: 5%;
+}
+
+#navbar_menu {
+    margin-right: 10%;
+}
+
+.menu_header {
+    margin-right: 10px;
+    font-size: 16pt;
+    font-weight: 600;
+}
+
+.active {
+    background-color: white;
+    color: black !Important;
+    border-radius: 4px;
+}
+
+.input_border_bottom {
+    border-bottom: 3px solid blue;
+}
+
+.box_input_contact_us {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.box_contact {
+    margin: 0 auto;
+}
+
+.text_footer {
+    color: white;
+    font-size: 12pt;
+}
+
+.back_gray {
+    background-color: gray;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 300px;
+}
